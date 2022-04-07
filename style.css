@@ -56,14 +56,6 @@ p{
     max-width: 500px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-input{
-    margin-top: 20px;
-    height: 20px;
-    padding: 15px;
-    border-radius: 20px;
-    border: none;
-    font-size: 15;
-}
 article{
     margin-left: 80px;
 }
@@ -71,11 +63,7 @@ footer{
     padding-top: 300px;
     font-size: 12px;
     text-align: center;
-}
-#video-youtube{
-    padding-top: 50px;
-   
-}
+}  
 #acompanhe-font{
     font-size: 12px;
     line-height: 20px;
