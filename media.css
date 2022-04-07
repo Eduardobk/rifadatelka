@@ -1,6 +1,7 @@
 @media screen and (max-width:760px){
     header{
         flex-direction: column;
+        align-self: center;
     }
     main{
         flex-direction: column;
@@ -19,6 +20,7 @@
     }
     ul{
         text-align: center;
+        padding-right: 32px;
     }
     #acompanhe-font{
         display: none;
@@ -26,7 +28,7 @@
     #inscreva-se-btn{
         align-self: center;
     }
-    #Tittle{
-        padding-left: 34px;
-    }
+   h1{
+       text-align: center;
+   }
 }
